@@ -6,5 +6,6 @@ public class ClassA {
 		System.out.println("ClassF");
 	    System.out.println("ClassG");
 	    System.out.println("First Brnch commit1");
+	    System.out.println("First Branch commit2");
 	}
 }
